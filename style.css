@@ -55,8 +55,10 @@ a{
 }
 .bara li a{
     transition: 0.5s;
-    color: black;
+    color: #777;
     letter-spacing: 1px;
+    font-size: 15px;
+    font-weight: 500;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 ul{
@@ -95,7 +97,7 @@ ul{
     transition: 0.5s;
 }
 .bara li:not(:last-child){
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid #10cab7;
 }
 
 @media(min-width:768px){
