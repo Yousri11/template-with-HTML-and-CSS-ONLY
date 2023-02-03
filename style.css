@@ -55,7 +55,7 @@ a{
 }
 .bara li a{
     transition: 0.5s;
-    color: #777;
+    color: black;
     letter-spacing: 1px;
     font-size: 15px;
     font-weight: 500;
