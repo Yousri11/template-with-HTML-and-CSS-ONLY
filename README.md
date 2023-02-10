@@ -1,5 +1,5 @@
 # demo
-![demo](https://yousri11.github.io/template-with-HTML-and-CSS-ONLY/)
+[template-with-HTML-and-CSS-ONLY](https://yousri11.github.io/template-with-HTML-and-CSS-ONLY/).
 # template-with-HTML-and-CSS-ONLY
 This is my first template of the year after a long break i hope you like it
 this what it looks like .
